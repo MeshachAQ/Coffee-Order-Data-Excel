@@ -1,17 +1,21 @@
+# INTRO
 I remember this being my first dataset where I employed the use of vlookups. I also used power query for this project. Infact I did this project three different times. haha. It was really bad the very first time but as a man who doesnt give up, I went for it again and man there wasn't any change. later, I learnt more, got comfortable and voila the outcome and as seen, its's the pride of all my excel projects by far. lol
 
 Anyways, to start with, we downloaded this particular dataset from Youtube from one of my mentor's channel so yhh after which we did some;
-Data Cleaning & Transformation
-Data analyzing
-Data visualization
-Recommendations
-Data Cleaning
+
+### Data Cleaning & Transformation
+### Data analyzing
+### Data visualization
+### Recommendations
+
+
+# Data Cleaning
 
 This project had three different sheets, orders, customers and products. the first thing I did was employ vlookup to bring all the needed details to my fact table in order to use power query to clean and transform the dataset. This is seen below
 
 End result shown below after cleaning and transforming
 
-Data Analysis
+# Data Analysis
 
 So here in the analysis part, I leveraged the use of pivot table. I used pivot table to answer my most wanted questions
 
@@ -32,7 +36,7 @@ So here in the analysis part, I leveraged the use of pivot table. I used pivot t
 
 
 
-Dashboard(Visualization)
+# Dashboard(Visualization)
 ![excel clean](https://github.com/user-attachments/assets/5b392b1f-acc7-4c85-81df-2420fb53d891)
 
 Phew!
@@ -40,9 +44,6 @@ Phew!
 Finally got to my favorite part of the process, yeah, data visualization. Now 1 thing I do know now, is that your visuals should be clean, coherent and easy to understand. 
 
 so I decided to build this easy, quick and beautiful visual for the project
-
-
-
 
 and it's really dynamic attached is a video link to try your hands on the filters and experience how dynamic it is. lol
 
@@ -54,6 +55,6 @@ and it's really dynamic attached is a video link to try your hands on the filter
 
 
 
-Conclusion
+# Conclusion
 
 I just loved this project. mwah
